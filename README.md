@@ -6,6 +6,7 @@ Currently being used by Jack to collect resources to be used to setup the mastod
 
 ## Articles
 
-- [Everything I know about Mastodon](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/).
+- [Danielle Navarro - Everything I know about Mastodon](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/).
   - References [Fedi.Tips](https://fedi.tips/), 'An Unofficial Guide to Mastodon & the Fediverse'.
 
+- [Martin Fowler - Exploring Mastodon](https://martinfowler.com/articles/exploring-mastodon.html)
