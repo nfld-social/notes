@@ -4,6 +4,11 @@ Misc. collection of resources, links, and random scribblings
 
 Currently being used by Jack to collect resources to be used to setup the mastodon instance, both from a technical, but also a community managerial perspective
 
+## Tutorials
+
+- [docs.joinmastodon.org](https://docs.joinmastodon.org)
+  - [Running your own server](https://docs.joinmastodon.org/user/run-your-own/)
+
 ## Articles
 
 - [Danielle Navarro - Everything I know about Mastodon](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
