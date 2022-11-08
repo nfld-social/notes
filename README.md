@@ -10,3 +10,6 @@ Currently being used by Jack to collect resources to be used to setup the mastod
   - References [Fedi.Tips](https://fedi.tips/), 'An Unofficial Guide to Mastodon & the Fediverse'
 
 - [Martin Fowler - Exploring Mastodon](https://martinfowler.com/articles/exploring-mastodon.html)
+
+- [Simon Willison - Matsodon is just blogs](https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/)
+  - "Mastodon is just blogs and Google Reader, skinned to look like Twitter."
