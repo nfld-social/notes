@@ -18,3 +18,5 @@ Currently being used by Jack to collect resources to be used to setup the mastod
 
 - [Simon Willison - Matsodon is just blogs](https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/)
   - "Mastodon is just blogs and Google Reader, skinned to look like Twitter."
+
+- [Nora Codes - Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
