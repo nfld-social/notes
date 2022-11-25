@@ -9,6 +9,8 @@ Currently being used by Jack to collect resources to be used to setup the mastod
 - [docs.joinmastodon.org](https://docs.joinmastodon.org)
   - [Running your own server](https://docs.joinmastodon.org/user/run-your-own/)
 
+- [How to take advantage of Docker to install Mastodon](https://sleeplessbeastie.eu/2022/05/02/how-to-take-advantage-of-docker-to-install-mastodon/)
+
 ## Articles
 
 - [Danielle Navarro - Everything I know about Mastodon](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
