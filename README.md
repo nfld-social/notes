@@ -26,3 +26,7 @@ Currently being used by Jack to collect resources to be used to setup the mastod
   - "Mastodon is just blogs and Google Reader, skinned to look like Twitter."
 
 - [Nora Codes - Scaling Mastodon in the Face of an Exodus](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
+
+- [Hazel Weakly - Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon/)
+
+  - Seriously. This blog on scaling #Mastodon from #Hachyderm's own @hazelweakly is in my opinion the best resource to date on everything you need know about scaling Mastodon. (https://hachyderm.io/@nova/109422755533605556)
