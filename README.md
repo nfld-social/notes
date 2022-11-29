@@ -30,3 +30,5 @@ Currently being used by Jack to collect resources to be used to setup the mastod
 - [Hazel Weakly - Scaling Mastodon: The Compendium](https://hazelweakly.me/blog/scaling-mastodon/)
 
   - Seriously. This blog on scaling #Mastodon from #Hachyderm's own @hazelweakly is in my opinion the best resource to date on everything you need know about scaling Mastodon. (https://hachyderm.io/@nova/109422755533605556)
+
+- [Justin Warren - Scaling Mastodon with systemd template units](https://www.eigenmagic.com/2022/11/29/scaling-mastodon-with-systemd-template-units/)
